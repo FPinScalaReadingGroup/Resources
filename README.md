@@ -2,7 +2,7 @@
 Resources for Learning Scala and Functional Programming
 
 Good Places to Start:
-* [Twitter Scala School](https://twitter.github.io/scala_school/)
+* [Twitter's Scala School](https://twitter.github.io/scala_school/)
 * [Coursera Course by Martin Odersky](https://www.coursera.org/learn/progfun1)
 
 Advanced Resources:
