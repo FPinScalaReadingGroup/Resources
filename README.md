@@ -7,3 +7,4 @@ Good Places to Start:
 
 Advanced Resources:
 * [Twitter's Effective Scala (a style guide)](http://twitter.github.io/effectivescala/)
+* [Databriks Scala Style Guide](https://github.com/databricks/scala-style-guide)
